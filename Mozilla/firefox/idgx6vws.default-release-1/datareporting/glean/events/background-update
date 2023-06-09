@@ -1,0 +1,2 @@
+{"timestamp":17269,"category":"nimbus_events","name":"enroll_failed","extra":{"experiment":"use-additional-tiles-for-sponsored-shortcuts","reason":"feature-conflict"}}
+{"timestamp":46776,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","experiment":"use-additional-tiles-for-sponsored-shortcuts"}}
